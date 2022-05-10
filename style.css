@@ -1,0 +1,18 @@
+p {
+    display: inline;
+    position: relative;
+    top: 20px;
+    color:white;
+    font-weight: bolder;
+}
+
+section {
+    display: block;
+}
+
+a {
+    display: inline;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
